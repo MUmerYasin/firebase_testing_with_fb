@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643325990603",
+    "project_id": "firebesetestingwithfbdb",
+    "storage_bucket": "firebesetestingwithfbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643325990603:android:ae49285f2bb7a466d2ad4e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_testing_with_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643325990603-uvd2hftdsimdpnqirjd1o4ksbap4ui3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNhvkI1i_B1aoEuTEkCyR3gzBCZ627qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643325990603-uvd2hftdsimdpnqirjd1o4ksbap4ui3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
